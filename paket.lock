@@ -1,0 +1,7 @@
+
+GIT
+  remote: https://github.com/shukriadams/simpleLib.git
+     (434ec3360b5e2b6e3f7241bef698d341ed5eedfd)
+  remote: https://github.com/shukriadams/complexLib.git
+     (188187eb852b0f9e511efc5cbc253258d5a32378)
+      build: sh ./build.sh

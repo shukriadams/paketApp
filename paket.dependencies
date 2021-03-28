@@ -1,0 +1,2 @@
+git https://github.com/shukriadams/simpleLib.git 0.0.2
+git https://github.com/shukriadams/complexLib.git 0.0.4 build: "sh ./build.sh"
